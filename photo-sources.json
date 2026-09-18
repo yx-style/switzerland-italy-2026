@@ -1,0 +1,338 @@
+[
+  {
+    "day": 1,
+    "name": "苏黎世老城",
+    "description": "河岸、教堂与步行街组成的老城区域",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/7139-7140_-_Z%C3%BCrich_-_Limmat_viewed_from_Walche-Br%C3%BCcke.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:7139-7140_-_Z%C3%BCrich_-_Limmat_viewed_from_Walche-Br%C3%BCcke.jpg"
+  },
+  {
+    "day": 1,
+    "name": "班霍夫大街",
+    "description": "苏黎世市中心的购物与散步街道",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bahnhofstrasse-2019.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bahnhofstrasse-2019.jpg"
+  },
+  {
+    "day": 1,
+    "name": "林登霍夫山",
+    "description": "俯瞰利马特河和老城屋顶的高地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lindenhof_Square_and_Hill%2C_Zurich_%28Ank_Kumar%29_07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lindenhof_Square_and_Hill%2C_Zurich_%28Ank_Kumar%29_07.jpg"
+  },
+  {
+    "day": 1,
+    "name": "圣母大教堂",
+    "description": "河岸教堂，行程以外观为主",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Z%C3%BCrich_Switzerland-M%C3%BCnsterbr%C3%BCcke-and-Fraum%C3%BCnster-01_%28cropped%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_Switzerland-M%C3%BCnsterbr%C3%BCcke-and-Fraum%C3%BCnster-01_%28cropped%29.jpg"
+  },
+  {
+    "day": 1,
+    "name": "苏黎世湖畔 Bürkliplatz",
+    "description": "市中心临湖广场与湖岸视野",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Z%C3%BCrichsee_-_B%C3%BCrkliplatz_IMG_2143.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrichsee_-_B%C3%BCrkliplatz_IMG_2143.JPG"
+  },
+  {
+    "day": 1,
+    "name": "苏黎世大教堂",
+    "description": "老城标志性的双塔教堂",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Grossm%C3%BCnster_-_M%C3%BCnsterhof_2014-05-23_12-08-43.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Grossm%C3%BCnster_-_M%C3%BCnsterhof_2014-05-23_12-08-43.JPG"
+  },
+  {
+    "day": 1,
+    "name": "Niederdorf",
+    "description": "餐馆、小店和窄巷集中的老城区",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Z%C3%BCrich_-_Niederdorf_-_St%C3%BCssihofstatt_-_zur_Schnidern_IMG_1375.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_-_Niederdorf_-_St%C3%BCssihofstatt_-_zur_Schnidern_IMG_1375.jpg"
+  },
+  {
+    "day": 2,
+    "name": "First 山",
+    "description": "乘缆车进入高山观景与徒步区域",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Grindelwald_First.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Grindelwald_First.jpg"
+  },
+  {
+    "day": 2,
+    "name": "First 悬崖栈道",
+    "description": "沿崖壁修建的金属栈道和观景平台",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/First_Cliff_Walk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Cliff_Walk.jpg"
+  },
+  {
+    "day": 2,
+    "name": "Bachalpsee 湖徒步",
+    "description": "高山湖泊与远处雪峰，安排往返徒步",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bachalpsee_reflection.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bachalpsee_reflection.jpg"
+  },
+  {
+    "day": 2,
+    "name": "格林德瓦村庄",
+    "description": "山脚木屋、草坡和山壁景观",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grindelwald_View_02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Grindelwald_View_02.jpg"
+  },
+  {
+    "day": 3,
+    "name": "劳特布伦嫩山谷",
+    "description": "陡峭山壁、谷底村庄与步道",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/1_lauterbrunnen_valley_wengen_2022.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_wengen_2022.jpg"
+  },
+  {
+    "day": 3,
+    "name": "Staubbach 瀑布",
+    "description": "从村庄旁高崖垂落的瀑布",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lauterbrunnen_Staubbach.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lauterbrunnen_Staubbach.jpg"
+  },
+  {
+    "day": 3,
+    "name": "文根小镇",
+    "description": "位于山腰的村庄，适合观景和散步",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1_wengen_2012.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:1_wengen_2012.jpg"
+  },
+  {
+    "day": 3,
+    "name": "文根齿轨火车",
+    "description": "连接山谷与山村的登山铁路",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kleine_Scheidegg_Station.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kleine_Scheidegg_Station.jpg"
+  },
+  {
+    "day": 4,
+    "name": "Cannaregio 区",
+    "description": "威尼斯北部运河街区，傍晚散步与晚餐",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Canale_di_Cannaregio_-_Viewed_from_Grand_Canal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Canale_di_Cannaregio_-_Viewed_from_Grand_Canal.jpg"
+  },
+  {
+    "day": 5,
+    "name": "圣马可大教堂",
+    "description": "多圆顶与华丽立面的威尼斯地标教堂",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Venezia_Basilica_di_San_Marco_Fassade_2.jpg"
+  },
+  {
+    "day": 5,
+    "name": "总督宫",
+    "description": "临水宫殿，参观大厅与历史空间",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg"
+  },
+  {
+    "day": 5,
+    "name": "里亚托桥",
+    "description": "跨越大运河的石拱桥",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rialto_2025_4.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rialto_2025_4.jpg"
+  },
+  {
+    "day": 5,
+    "name": "大运河",
+    "description": "沿岸宫殿密集的威尼斯主要水道",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg"
+  },
+  {
+    "day": 5,
+    "name": "水上巴士",
+    "description": "乘公共水上交通看两岸，图示船型",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ACTV_31_at_Fondaco_dei_Tedeschi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ACTV_31_at_Fondaco_dei_Tedeschi.jpg"
+  },
+  {
+    "day": 5,
+    "name": "学院桥",
+    "description": "适合看大运河景色的步行桥",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Accademia_bridge_in_Venice_%28South_East_exposure%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Accademia_bridge_in_Venice_%28South_East_exposure%29.jpg"
+  },
+  {
+    "day": 5,
+    "name": "Dorsoduro 区",
+    "description": "运河、广场和艺术空间交织的街区",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shady_canal_in_Venice.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shady_canal_in_Venice.jpg"
+  },
+  {
+    "day": 6,
+    "name": "百花大教堂广场",
+    "description": "大教堂、钟楼和洗礼堂所在的广场",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Firenze%2C_piazza_san_giovanni_e_piazza_del_duomo_durante_il_lockdown_%282020%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Firenze%2C_piazza_san_giovanni_e_piazza_del_duomo_durante_il_lockdown_%282020%29.jpg"
+  },
+  {
+    "day": 6,
+    "name": "领主广场",
+    "description": "旧宫与露天雕塑组成的城市广场",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Piazza_Signoria_-_Firenze.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Signoria_-_Firenze.jpg"
+  },
+  {
+    "day": 6,
+    "name": "老桥",
+    "description": "桥上有商铺的阿尔诺河石桥",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_alle_Grazie.jpg"
+  },
+  {
+    "day": 6,
+    "name": "米开朗琪罗广场",
+    "description": "从高处看佛罗伦萨屋顶与大教堂",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Firenze_-_modified.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Firenze_-_modified.jpg"
+  },
+  {
+    "day": 7,
+    "name": "乌菲齐美术馆",
+    "description": "以文艺复兴绘画为重点的艺术博物馆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Florence%2C_Italy_-_panoramio_%28125%29.jpg"
+  },
+  {
+    "day": 7,
+    "name": "学院美术馆与《大卫》",
+    "description": "可选参观，代表展品为米开朗琪罗《大卫》",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg"
+  },
+  {
+    "day": 7,
+    "name": "百花大教堂／穹顶",
+    "description": "可选内部参观或预约登顶，图片展示建筑",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg"
+  },
+  {
+    "day": 8,
+    "name": "斗兽场",
+    "description": "古罗马大型圆形竞技场遗址",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+  },
+  {
+    "day": 8,
+    "name": "古罗马广场",
+    "description": "神庙、拱门与古代公共建筑遗址区",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg"
+  },
+  {
+    "day": 8,
+    "name": "许愿池",
+    "description": "雕塑与宫殿立面结合的大型喷泉",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Trevi_Fountain_-_Roma.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg"
+  },
+  {
+    "day": 9,
+    "name": "梵蒂冈博物馆",
+    "description": "宫殿展厅、长廊与艺术收藏",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Vatican._Galery_IMG_4451.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vatican._Galery_IMG_4451.jpg"
+  },
+  {
+    "day": 9,
+    "name": "西斯廷礼拜堂",
+    "description": "以米开朗琪罗天顶壁画闻名，图示壁画",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sistine_Chapel_ceiling_02_%28brightened%29.jpg"
+  },
+  {
+    "day": 9,
+    "name": "圣彼得大教堂",
+    "description": "大型穹顶教堂与内部艺术空间",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+  },
+  {
+    "day": 9,
+    "name": "圣彼得广场",
+    "description": "教堂前方由柱廊环绕的大广场",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg"
+  },
+  {
+    "day": 9,
+    "name": "纳沃纳广场",
+    "description": "椭圆形广场与巴洛克喷泉",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Piazza_Navona_%28Rome%29_at_night.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Navona_%28Rome%29_at_night.jpg"
+  },
+  {
+    "day": 9,
+    "name": "万神殿",
+    "description": "古典柱廊与穹顶建筑，行程以周边散步为主",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantheon_%28Rome%29_-_Right_side_and_front.jpg"
+  },
+  {
+    "day": "alt",
+    "name": "布里恩茨湖",
+    "description": "备选：湖水与群山环绕的湖岸风景",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aerial_image_of_Lake_Brienz_%28view_from_the_southwest%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lake_Brienz_%28view_from_the_southwest%29.jpg"
+  },
+  {
+    "day": "alt",
+    "name": "Iseltwald 小镇",
+    "description": "备选：布里恩茨湖畔的小村庄",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/5902_-_Iseltwald.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:5902_-_Iseltwald.JPG"
+  },
+  {
+    "day": "alt",
+    "name": "卢塞恩",
+    "description": "备选：湖畔城市与老城散步",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Luzern_-_Rathausquai.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Luzern_-_Rathausquai.JPG"
+  },
+  {
+    "day": "alt",
+    "name": "卡佩尔桥",
+    "description": "备选：横跨河面的木制廊桥",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Kapellbruecke.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Kapellbruecke.JPG"
+  },
+  {
+    "day": "alt",
+    "name": "卢塞恩—因特拉肯观景列车",
+    "description": "备选：连接湖区与山区的列车，图示列车外观",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Luzern-Interlaken_Express_am_Lungerersee.jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Luzern-Interlaken_Express_am_Lungerersee.jpeg"
+  },
+  {
+    "day": 2,
+    "name": "First Flyer 飞索",
+    "description": "可选：坐式悬挂滑行，需另留排队时间",
+    "image": "https://media.jungfrau.ch/image/upload/ar_16:9,c_crop,f_auto,q_auto/c_scale,w_1200/v1480260648/fileadmin/Grindelwald_First_Sommer/First-Flieger-Adventure-Alp-Schreckfeld-Sommer.jpg",
+    "source": "https://www.jungfrau.ch/en-gb/grindelwaldfirst/pure-adventure/"
+  },
+  {
+    "day": 2,
+    "name": "First Glider 滑翔体验",
+    "description": "可选：俯卧悬挂式滑行，图示体验姿态",
+    "image": "https://media.jungfrau.ch/image/upload/ar_16:9,c_crop,f_auto,q_auto/c_scale,w_1920/v1526557100/fileadmin/Grindelwald_First_Sommer/First-Glider-Grindelwald-First.jpg",
+    "source": "https://www.jungfrau.ch/en-gb/grindelwaldfirst/pure-adventure/"
+  },
+  {
+    "day": 2,
+    "name": "Mountain Cart 山地卡丁车",
+    "description": "可选：沿山道驾驶三轮无动力车",
+    "image": "https://media.jungfrau.ch/image/upload/ar_16:9,c_crop,f_auto,q_auto/c_scale,w_1200/v1479812835/fileadmin/Grindelwald_First_Sommer/First-Mountaincart-Panorama-Eiger-Wetterhorn-Grindelwald.jpg",
+    "source": "https://www.jungfrau.ch/en-gb/grindelwaldfirst/pure-adventure/"
+  },
+  {
+    "day": 2,
+    "name": "Trottibike 滑板车",
+    "description": "可选：站立骑行下山；是否开放以当天为准",
+    "image": "https://media.jungfrau.ch/image/upload/ar_1:1,c_crop,f_auto,q_auto/c_scale,w_1200/v1547214275/fileadmin/Grindelwald_First_Sommer/Grindelwald-First-Trottibike-Weg-Wiese-Sommer.jpg",
+    "source": "https://www.jungfrau.ch/en-gb/grindelwaldfirst/pure-adventure/"
+  }
+]
