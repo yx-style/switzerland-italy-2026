@@ -518,7 +518,7 @@
     "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
   },
   {
-    "day": 9,
+    "day": 10,
     "name": "纳沃纳广场",
     "description": "椭圆形广场与巴洛克喷泉",
     "image": "photos/38.html",
@@ -532,9 +532,9 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
-    "day": 9,
+    "day": 10,
     "name": "万神殿",
-    "description": "古典柱廊与穹顶建筑，行程以周边散步为主",
+    "description": "古典柱廊与穹顶建筑，入内参观需官方门票",
     "image": "photos/39.html",
     "source": "https://commons.wikimedia.org/wiki/File:Pantheon_%28Rome%29_-_Right_side_and_front.jpg",
     "original_image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg",
@@ -642,5 +642,13 @@
     "description": "可选：站立骑行下山；是否开放以当天为准",
     "image": "https://media.jungfrau.ch/image/upload/ar_1:1,c_crop,f_auto,q_auto/c_scale,w_1200/v1547214275/fileadmin/Grindelwald_First_Sommer/Grindelwald-First-Trottibike-Weg-Wiese-Sommer.jpg",
     "source": "https://www.jungfrau.ch/en-gb/grindelwaldfirst/pure-adventure/"
+  },
+  {
+    "day": 10,
+    "name": "Trastevere 特拉斯提弗列",
+    "description": "台伯河对岸的老街区，适合小巷散步、咖啡与晚餐",
+    "image": "https://www.turismoroma.it/quartieri/trastevere-testaccio",
+    "source": "https://www.turismoroma.it/quartieri/trastevere-testaccio",
+    "link_type": "official_illustrated_page"
   }
 ]
